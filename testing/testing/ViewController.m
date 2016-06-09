@@ -17,11 +17,13 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+
+    //first comment
+    //second
     self.string = @"hi";
     
-    
-    
     ///salkdjflkjasdkfjlsadjfj
+
 }
 
 - (void)didReceiveMemoryWarning {
