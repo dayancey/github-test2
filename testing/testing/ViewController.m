@@ -21,8 +21,6 @@
     //first comment
     //second
     self.string = @"hi";
-    
-    ///salkdjflkjasdkfjlsadjfj
 
 }
 
